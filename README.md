@@ -1,4 +1,4 @@
-ATTENTION Pour une réson obscure git ne voulait pas push sur main mais m'a demandé de créer une master... Tous le code est sur Master ATTENTION
+ATTENTION Pour une raison obscure git ne voulait pas push sur main mais m'a demandé de créer une master... Tous le code est sur Master ATTENTION
 
 
 
