@@ -4,12 +4,11 @@ Initialisation du projet:
 
 - dans le fichier config.properties openai.api.key="" remlplacer les quotes par al clef API
 - Installer les librairies:
-      com.bluecatcode.junit:junit-4.10-extended:1.1.0
-      com.google.api-client:google-api-client-gson:1.26.0
-      com.google.code.gson:gson:2.11.0
-      org.mongodb:mongodb-driver-sync:5.3.0
-      com.squareup.okhttp3:okhttp:4.12.0
-      com.squareup.okio:okio:3.4.0
+      com.google.api-client:google-api-client-gson:1.26.0 /
+      com.google.code.gson:gson:2.11.0 /
+      org.mongodb:mongodb-driver-sync:5.3.0 /
+      com.squareup.okhttp3:okhttp:4.12.0 /
+      com.squareup.okio:okio:3.4.0 /
 
 
 Question théorique :
